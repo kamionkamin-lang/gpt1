@@ -4,7 +4,7 @@ e.preventDefault();
 
 emailjs.sendForm(
     "service_wxmoo9o",
-    "TU_TEMPLATE_ID",
+    "template_96x4enj",
     this
 )
 .then(()=>{
