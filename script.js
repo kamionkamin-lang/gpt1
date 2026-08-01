@@ -3,7 +3,7 @@ document.getElementById("formulario").addEventListener("submit",function(e){
 e.preventDefault();
 
 emailjs.sendForm(
-    "TU_SERVICE_ID",
+    "service_wxmoo9o",
     "TU_TEMPLATE_ID",
     this
 )
